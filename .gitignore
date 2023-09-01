@@ -2,7 +2,6 @@ npm-debug.log
 dump.rdb
 node_modules
 .npm
-dist
 webpack.config.js
 build
 build_bak
